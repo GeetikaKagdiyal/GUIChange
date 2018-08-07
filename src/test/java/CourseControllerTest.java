@@ -104,7 +104,7 @@ public class CourseControllerTest {
 			e.printStackTrace();
 		}
 		
-
+	}
 	@Test
 	public void deleteCourseTest()
 	{
